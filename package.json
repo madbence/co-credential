@@ -1,0 +1,30 @@
+{
+  "name": "co-credential",
+  "version": "1.0.0",
+  "description": "Co wrapper for credential module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madbence/node-co-credential"
+  },
+  "keywords": [
+    "co",
+    "credential",
+    "password",
+    "salt",
+    "security",
+    "login",
+    "auth",
+    "hash",
+    "pbkdf2"
+  ],
+  "author": "Bence Dányi <bence@danyi.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madbence/node-co-credential/issues"
+  },
+  "homepage": "https://github.com/madbence/node-co-credential",
+  "dependencies": {
+    "credential": "https://registry.npmjs.org/credential/-/credential-0.2.5.tgz"
+  }
+}
